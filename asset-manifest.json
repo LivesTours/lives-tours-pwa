@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/lives-tours-pwa/static/css/main.f855e6bc.css",
-    "main.js": "/lives-tours-pwa/static/js/main.330ba811.js",
+    "main.js": "/lives-tours-pwa/static/js/main.5c9d66df.js",
     "static/js/453.e9eafa90.chunk.js": "/lives-tours-pwa/static/js/453.e9eafa90.chunk.js",
     "static/media/logo.svg": "/lives-tours-pwa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/lives-tours-pwa/index.html",
     "main.f855e6bc.css.map": "/lives-tours-pwa/static/css/main.f855e6bc.css.map",
-    "main.330ba811.js.map": "/lives-tours-pwa/static/js/main.330ba811.js.map",
+    "main.5c9d66df.js.map": "/lives-tours-pwa/static/js/main.5c9d66df.js.map",
     "453.e9eafa90.chunk.js.map": "/lives-tours-pwa/static/js/453.e9eafa90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.330ba811.js"
+    "static/js/main.5c9d66df.js"
   ]
 }
