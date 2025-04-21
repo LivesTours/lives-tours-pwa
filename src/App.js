@@ -4,7 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-Lives Tours">
+	  <p>Todas las Islas en un Solo lugar!.</p>
+	   <h1>Bienvenido a Lives Tours</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
